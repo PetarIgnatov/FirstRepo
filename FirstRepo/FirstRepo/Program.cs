@@ -10,6 +10,7 @@ namespace FirstRepo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi from GitHub");
         }
     }
 }

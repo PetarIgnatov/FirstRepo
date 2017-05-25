@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>dec7c8ab-cdd0-4cb4-8fac-cb8e6cb255ef</ProjectGuid>
+    <ProjectGuid>{B83B88C6-CD3A-4017-8914-8AEC9552267E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FirstRepo</RootNamespace>
